@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @TheNoobiCat
-- 👀 I’m interested in full-stack web development with NextJs and React. I made Y, an alternative social platform to Twitter/X (ysocial.co)
-- 🌱 I’m currently learning about machine learning in Tensorflow and the fine-tuning of language models
-- 📫 How to reach me: <a href="https://ysocial.xyz/s">DM/@ me on Y</a>
+- 👀 I’m interested in full-stack web development, cloud infrastructure and decentralized/distributed networks
+- 🌱 I’m currently learning about post-quantum cryptography
+- 📫 How to reach me: Telegram @TheNoobiCat
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: AMD is better than Intel
+- ⚡ Fun fact: I have 2 pet guinea pigs :)
+
+I mainly use Github for private repositories so you probably won't find much here :D
 
 <!---
 TheNoobiCat/TheNoobiCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
