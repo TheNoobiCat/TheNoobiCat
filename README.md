@@ -1,11 +1,42 @@
-- 👋 Hi, I’m @TheNoobiCat
-- 👀 I’m interested in full-stack web development, cloud infrastructure and decentralized/distributed networks
-- 🌱 I’m currently learning about post-quantum cryptography
-- 📫 How to reach me: Telegram @TheNoobiCat
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have 2 pet guinea pigs :)
+<div align="center">
+  
+# Sam
 
-I mainly use Github for private repositories so you probably won't find much here :D
+**Full-stack dev • Distributed systems builder**  
+I build fast software, scalable systems, and onchain tech that doesn’t suck.
+
+</div>
+
+---
+
+## 👋 About Me
+I’m a developer who loves speed, low-level detail, and shipping real products.  
+I work across the stack: frontend, backend, infra, cryptography, and all the weird stuff in between.
+
+## 🔥 What I’m Into
+- High-performance cloud infrastructure  
+- Decentralized + distributed networks  
+- Crypto & zk-powered systems  
+- Full-stack engineering with a focus on scale
+
+## 📚 What I’m Learning
+- Post-quantum cryptography  
+Because why not prepare for the future before everyone else wakes up
+
+## 📬 Contact
+Telegram: **@samcleth**
+
+## 🐹 Fun Fact
+I have two guinea pigs
+
+---
+
+### ⚠️ Note
+Most of my serious work is in private repos.  
+If this profile looks empty, it’s not because I’m not building stuff  
+it’s because I’m building **actual products**, not portfolio fluff.
+
+
 
 <!---
 TheNoobiCat/TheNoobiCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
