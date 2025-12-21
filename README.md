@@ -26,9 +26,6 @@ Because why not prepare for the future before everyone else wakes up
 ## 📬 Contact
 Telegram: **@samcleth**
 
-## 🐹 Fun Fact
-I have two guinea pigs
-
 ---
 
 ### ⚠️ Note
