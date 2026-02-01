@@ -31,7 +31,6 @@ Telegram: **@samcleth**
 ### ⚠️ Note
 Most of my serious work is in private repos.  
 If this profile looks empty, it’s not because I’m not building stuff  
-it’s because I’m building **actual products**, not portfolio fluff.
 
 
 
